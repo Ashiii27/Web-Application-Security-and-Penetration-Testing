@@ -52,3 +52,29 @@ cd recon-ng && pip3 install -r REQUIREMENTS
 | 15 | **Recon-ng** | Passive | Modular web reconnaissance framework |
 
 ---
+## Legal Disclaimer
+
+> ⚠️ **IMPORTANT — READ THIS**
+
+All tools documented in this guide are to be used **exclusively on systems you own or have received explicit written authorization to test**.
+
+Using these tools against unauthorized systems is **illegal** and may violate:
+- 🇺🇸 **USA:** Computer Fraud and Abuse Act (CFAA)
+- 🇬🇧 **UK:** Computer Misuse Act 1990
+- 🇮🇳 **India:** Information Technology Act 2000
+- 🇪🇺 **EU:** Directive 2013/40/EU on Attacks Against Information Systems
+
+**Safe and legal ways to practice:**
+- Build your own lab with VMs
+- Use platforms like TryHackMe, HackTheBox with authorized rooms
+- Participate in **Bug Bounty programs** (HackerOne, Bugcrowd, Intigriti)
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if it helped you on your security journey!**
+
+*Learn ethically. Practice legally. Hack responsibly.*
+
+</div>
