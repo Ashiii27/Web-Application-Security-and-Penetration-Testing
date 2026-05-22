@@ -3,7 +3,7 @@ A detailed, hands-on guide to every essential **Information Gathering** tool a b
 ### What You Need
 - A machine running **Kali Linux**, **Parrot OS**, or any Debian-based Linux distro
 - Basic familiarity with the Linux terminal
-- A practice target (see [Practice Environments](#practice-environments) — **never test on real targets without permission**)
+- A practice target  — **never test on real targets without permission**)
 
 ### Installing All Tools at Once (Kali Linux)
 ```bash
