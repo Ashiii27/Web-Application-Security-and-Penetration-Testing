@@ -1,0 +1,1 @@
+A detailed, hands-on guide to every essential **Information Gathering** tool a beginner needs. Each tool is explained from scratch — what it does, how it works under the hood, installation, commands, flags, and when to use it in a real engagement.
